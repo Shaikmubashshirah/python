@@ -1,0 +1,4 @@
+name = 'mu##ba#s#h#sh##ira##h' 
+count = name.count('#')
+print(count)
+print(count * "#"+name.replace("#",""))
